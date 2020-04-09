@@ -15,6 +15,7 @@ const DEFAULT_BYPASS_COOKIES = [
   "wp-",
   "wordpress",
   "comment_",
+  "wp_woocommerce_session_",
   "woocommerce_"
 ];
 
